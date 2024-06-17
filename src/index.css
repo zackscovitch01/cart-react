@@ -275,7 +275,10 @@ nav {
 }
 
 nav h4 {
+  text-transform: none;
   color: var(--white);
+  letter-spacing: 3px;
+  font-weight: 700;
 }
 
 .nav-container {
